@@ -35,4 +35,9 @@ body{
     font-size:13px;
     font-weight:700 ;
 }
-/* frequently asked questions */
+/* Bonus */
+.bonus-color{
+    color:purple;
+    font-weight: 900;
+
+}
