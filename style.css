@@ -2,7 +2,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-color:#E5E5E5; 
+    
 }
 
 
@@ -13,10 +13,25 @@ body{
 
 }
 .button-design{
-    background-color: orange;
+    background-color:orangered;
     color:white;
 }
 /* --------------------------feature bike style-------------------------------------------- */
 .bg-img{
     filter: grayscale(95%);
+}
+/* ------------------------------Clients Section------------------------------------------ */
+.heading-part{
+    color:orangered
+}
+.card-h{
+    height:478px;
+}
+.fas{
+    color:gold;
+}
+.card-bottom-text{
+    color:blue;
+    font-size:13px;
+    font-weight:700 ;
 }
