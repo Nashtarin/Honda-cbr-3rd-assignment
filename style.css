@@ -1,0 +1,17 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* --------------------header style------------------------- */
+
+.bg{
+    background-color:#264653;
+
+}
+.button-design{
+    background-color: orange;
+    color:white;
+}
